@@ -28,6 +28,14 @@ AlMahir About
         <label for="vision">vision</label>
         <textarea name="vision" id="" rows="5">{{$visionContent->content}}</textarea>
     </div>
+    <div class="formHolder">
+        <label for="vision">Goals</label>
+        <textarea name="vision" id="" rows="5">{{$visionContent->content}}</textarea>
+    </div>
+    <div class="formHolder">
+        <label for="vision">Stuff</label>
+        <textarea name="vision" id="" rows="5">{{$visionContent->content}}</textarea>
+    </div>
     <button type="submit" class="btnStyle">Save</button>
 </form>
 @endsection

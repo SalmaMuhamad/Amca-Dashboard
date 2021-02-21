@@ -123,7 +123,7 @@
                 <li><a href="/aboutMahir">About us</a></li>
                 <li><a href="/academicsMahir">Academics</a></li>
                 <li><a href="/programsMahir">Programs</a></li>
-                <li><a href="/admissionMahir">Admission</a></li>
+                <li><a href="/admission">Admission</a></li>
               </ul>
             </div>
           </div>
